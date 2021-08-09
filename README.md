@@ -1,11 +1,9 @@
-Clone this repo  ||
+Clone this repo  
 
-Run npm install  ||
+Run npm install  
   
-Run npm start    ||
+Run npm start    
   
-You must add your own API key in the src/App.js file to connect to Clarifai. ||
-  
-  
-You can grab Clarifai API key here 
+You must add your own API key in the src/App.js file to connect to Clarifai. 
+   
   
